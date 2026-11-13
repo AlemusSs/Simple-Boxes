@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "simple_boxes"
+version = "0.0.2"
+name = "Simple_boxes"
+tagline = "Create parametric printable boxes with removable lids"
+maintainer = "Alemus"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+website = "https://github.com/AlemusSs/Simple_boxes"

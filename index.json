@@ -1,0 +1,23 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "id": "simple_boxes",
+      "schema_version": "1.0.0",
+      "name": "Simple_boxes",
+      "tagline": "Create parametric printable boxes with removable lids",
+      "version": "0.0.2",
+      "type": "add-on",
+      "maintainer": "Alemus",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/AlemusSs/Simple_boxes",
+      "archive_url": "https://github.com/AlemusSs/Simple_boxes/releases/download/v0.0.2/Simple_boxes_0.0.2.zip",
+      "archive_size": 31478,
+      "archive_hash": "sha256:03b906d51b7ecb265761691b3c3947f24e9e476b5fdf8df9910cac090d2b4abb"
+    }
+  ]
+}
