@@ -1,4 +1,4 @@
-# Simple_boxes
+# Simple Boxes
 
 **Параметрические коробки со съёмными крышками для Blender.**
 
